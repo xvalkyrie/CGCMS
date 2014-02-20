@@ -1,9 +1,9 @@
-Coded Gamer is an open source Ruby on Rails CMS project for the site CodedGamer.com.
+Coded Gamer is an open source and community driven Ruby on Rails CMS project. It will be the new platform for CodedGamer.com
 
 Our goal is to build the future platform of Coded Gamer through open source community builds, with each person contributing a bit here and there as they have time. 
 
 =================
-      CODE STYLEGUIDES
+ CODE STYLEGUIDES
 =================
 
 Our styleguides are simple and if you have ever worked on a ruby or rails project before you probably already know them. 
@@ -35,7 +35,7 @@ As the next step is completed the next most critical code will be chosen from lo
 "Desired long term features" lists our long term goals. Look at it as an outline of things to come soon. This list will grow as the project grows.
 
 =================
-         PROJECT GUIDE
+  PROJECT GUIDE
 =================
 
 Current Features:
@@ -65,13 +65,14 @@ Desired Long Term Features:
 
 
 =================
-     HOW TO CONTRIBUTE
+HOW TO CONTRIBUTE
 =================
 
 PLEASE READ, UNDERSTAND, & FOLLOW THE CODE STYLEGUIDES AS OUTLINED ABOVE OR YOUR CODE WILL BE REJECTED UNTIL CORRECTED
 
 NOTES: 	PLEASE READ, UNDERSTAND, & FOLLOW THE CODE STYLEGUIDES AS OUTLINED ABOVE OR YOUR CODE WILL BE REJECTED UNTIL CORRECTED
-	Please only focus on one of the above steps at a time in this order: Critical > Next Step > Low Priority.
+	Please only focus on one of the above steps at a time in this order: 
+	Critical > Next Step > Low Priority
 	Please do not work on long term features yet, but if you really want to start on one contact us and we will bump it to low priority if possible.
 
 To contributed to this project simply fork the project (i.e. create a copy under your name) and do your magic.
