@@ -6,7 +6,7 @@ Our goal is to build the future platform of Coded Gamer through open source comm
       CODE STYLEGUIDES
 =================
 
-Our stylguides are simple and if you have ever worked on a ruby or rails project before you probably already know them. 
+Our styleguides are simple and if you have ever worked on a ruby or rails project before you probably already know them. 
 We follow the best practices of Ruby and Rails as laid out by Bozhidar Batsov (http://batsov.com).
 These are the same best practices and styleguides used in hundreds of projects, including github itself.
 
@@ -54,8 +54,8 @@ Next Step:
 -----
 Low Priority:
 
-	1. Registraion, login, logout pages.
-	2. admin account managment
+	1. Registration, login, logout pages.
+	2. admin account management
 -----
 Desired Long Term Features:
 
@@ -71,12 +71,12 @@ Desired Long Term Features:
 PLEASE READ, UNDERSTAND, & FOLLOW THE CODE STYLEGUIDES AS OUTLINED ABOVE OR YOUR CODE WILL BE REJECTED UNTIL CORRECTED
 
 NOTES: 	PLEASE READ, UNDERSTAND, & FOLLOW THE CODE STYLEGUIDES AS OUTLINED ABOVE OR YOUR CODE WILL BE REJECTED UNTIL CORRECTED
-	Please only focus on one of the above steps at a time in this order: Citical > Next Step > Low Priority.
+	Please only focus on one of the above steps at a time in this order: Critical > Next Step > Low Priority.
 	Please do not work on long term features yet, but if you really want to start on one contact us and we will bump it to low priority if possible.
 
 To contributed to this project simply fork the project (i.e. create a copy under your name) and do your magic.
 
-Once you are satisified with your work and have FULLY COMPLETED your code you can then create a pull-request to ask us to pull specific changes from your repository.
+Once you are satisfied with your work and have FULLY COMPLETED your code you can then create a pull-request to ask us to pull specific changes from your repository.
 We will test your fork and if it meets the requirements your code will become part of the official project. You will be given full credit. 
 
 Detailed instructions on how to fork this project: https://help.github.com/articles/fork-a-repo
